@@ -1,0 +1,1 @@
+{"uuid":"7a8a8f26-1a56-45f3-a555-aae362db36bc","name":"api.getdata","children":["44f7cd39-c49c-4d7b-977d-0f6e33c26736"],"befores":[{"name":"startUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1659458463571,"stop":1659458464009}],"afters":[],"links":[],"start":1659458463551,"stop":1659458465002}
